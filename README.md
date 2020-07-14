@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm a software developer based on Kiev, Ukraine.
+- 🌱 I’m currently learning Golang
+- 📫 How to reach me: https://shtanko.dev
 <!--
 **ashtanko/ashtanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
