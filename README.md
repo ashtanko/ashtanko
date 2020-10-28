@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=chartreuse-dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtanko&langs_count=8)](https://github.com/ashtanko)
+
+  
+</a>
