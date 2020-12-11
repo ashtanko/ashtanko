@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm a software developer based on Kiev, Ukraine.
-- 🌱 I’m currently learning Jetpack Compose.
+- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 📫 How to reach me: https://shtanko.dev
 - 🤔 I build my ideas.
 <!--
