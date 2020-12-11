@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm a software developer based on Kiev, Ukraine.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Jetpack Compose.
 - 📫 How to reach me: https://shtanko.dev
 - 🤔 I build my ideas.
 <!--
