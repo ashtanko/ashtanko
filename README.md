@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=radical)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=radical)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtanko&layout=compact)](https://github.com/ashtanko/github-readme-stats)
+
 </a>
