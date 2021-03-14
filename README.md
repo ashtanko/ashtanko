@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I'm a software developer based on Kiev, Ukraine.
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
-- 📫 How to reach me: https://shtanko.dev
-- 🤔 I build my ideas.
+- 🇺🇦 Based on Kiev, Ukraine.
+- 💻 5 years of development working experience.
+- 🎓 Bachelor of Computer Science and Engineering.
+- 📫 How to reach me: https://shtanko.dev.
+- 🤖🍏 Android & iOS developer.
+- 🧭 Back End Engineer.
 <!--
 **ashtanko/ashtanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
