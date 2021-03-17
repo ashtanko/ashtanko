@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🇺🇦 Based on Kiev, Ukraine.
-- 💻 5 years of development working experience.
-- 🎓 Bachelor of Computer Science and Engineering.
-- 📫 How to reach me: https://shtanko.dev.
-- 🤖🍏 Android & iOS developer.
-- 🧭 Back End Engineer.
+- 🇺🇦  Based on Kiev, Ukraine.
+- 💻  5 years of development working experience.
+- 🎓  Bachelor of Computer Science and Engineering.
+- 📫  How to reach me: https://shtanko.dev.
+- 🤖🍏  Android & iOS developer.
+- 🧭  Back End Engineer.
 <!--
 **ashtanko/ashtanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
