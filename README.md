@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   ![Github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=radical)
   
 </a>
+
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
