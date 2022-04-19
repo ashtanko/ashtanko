@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=highcontrast)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=dracula)
   
 </a>
 
