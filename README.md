@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🇺🇦  Based on Kiev, Ukraine.
-- 💻  5 years of development working experience.
+- 🇺🇦  From Ukraine.
+- 🇵🇱  Currently in Poland.
+- 💻  6 years of development working experience.
 - 🎓  Bachelor of Computer Science and Engineering.
 - 📫  How to reach me: https://shtanko.dev.
 - 🤖🍏  Android & iOS developer.
@@ -27,3 +28,5 @@ Here are some ideas to get you started:
 </a>
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+
+[![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
