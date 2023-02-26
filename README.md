@@ -1,11 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently studying Flutter and JetPack Compose.
 - 🇺🇦  From Ukraine.
 - 🇵🇱  Currently in Poland.
 - 💻  6 years of development working experience.
 - 🎓  Bachelor of Computer Science and Engineering.
-- 📫  How to reach me: https://shtanko.dev.
 - 🤖🍏  Android & iOS developer.
 - 🧭  Back End Engineer.
+- 📫 How to reach me:
+Email: shtankopro@gmail.com
+For anything related to a repo, please post in its Discussions or Issues section
 
 [![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!--
