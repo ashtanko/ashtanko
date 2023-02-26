@@ -6,6 +6,8 @@
 - 📫  How to reach me: https://shtanko.dev.
 - 🤖🍏  Android & iOS developer.
 - 🧭  Back End Engineer.
+
+[![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **ashtanko/ashtanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,5 +30,3 @@ Here are some ideas to get you started:
 </a>
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-
-[![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
