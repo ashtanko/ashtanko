@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   
 </a>
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+<img src="https://i.imgur.com/kdKhgx6.gif" width="60px" align="center">
