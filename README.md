@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently studying Flutter and JetPack Compose.
-- 🇺🇦  From Ukraine.
 - 💻  7+ years of development working experience.
 - 🎓  Bachelor of Computer Science and Engineering.
 - 🤖🍏  Android & iOS developer.
