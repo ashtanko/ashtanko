@@ -3,7 +3,6 @@
 - 💻  7+ years of development working experience.
 - 🎓  Bachelor of Computer Science and Engineering.
 - 🤖🍏  Android & iOS developer.
-- 🧭  Back End Engineer.
 - 📫 How to reach me:
 Email: shtankopro@gmail.com
 For anything related to a repo, please post in its Discussions or Issues section
@@ -23,11 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=ashtanko&show_icons=true&theme=tokyonight)
-  
-</a>
-
-<img src="https://i.imgur.com/kdKhgx6.gif" width="60px" align="center">
