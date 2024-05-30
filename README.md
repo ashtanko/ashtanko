@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 I’m currently studying Flutter and JetPack Compose.
 - 💻  7+ years of development working experience.
 - 🎓  Bachelor of Computer Science and Engineering.
