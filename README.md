@@ -1,10 +1,8 @@
-- 🔭 I’m currently studying Flutter and JetPack Compose.
-- 💻  7+ years of development working experience.
-- 🎓  Bachelor of Computer Science and Engineering.
-- 🤖🍏  Android & iOS developer.
-- 📫 How to reach me:
-Email: shtankopro@gmail.com
-For anything related to a repo, please post in its Discussions or Issues section
+- 💻 8+ years of development working experience.
+- 🚀 Programming Languages: Kotlin, Dart, Golang.
+- 🤖 Mobile developer(Android & Flutter & iOS).
+- 🎓 Bachelor of Computer Science and Engineering.
+- 📫 Email: shtankopro@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!--
