@@ -1,7 +1,14 @@
-- 💻 8+ years of development working experience.
-- 🚀 Programming Languages: Kotlin, Dart, Golang.
-- 🤖 Mobile developer(Android & Flutter & iOS).
-- 🎓 Bachelor of Computer Science and Engineering.
+## Hi there 👋
+
+I possess advanced expertise as a software engineer, with specialized knowledge in Kotlin, Android, Flutter, and Go
+
+Projects I'm working on:
+  - 🔗 [nullx](https://github.com/ashtanko/nullx) - Dart toolkit that enhances handling of nullable types
+  - 💻 [the-algorithms](https://github.com/ashtanko/the-algorithms) - Algorithms in Kotlin with thorough unit testing and comprehensive documentation.
+  - 🗿 [flutter_bloc_app_template](https://github.com/ashtanko/flutter_bloc_app_template) - Useful basic Flutter project template using Bloc pattern
+  - 🎆 [kotlab](https://github.com/ashtanko/kotlab) - Kotlin lab project includes: Algorithms | Data Structures | Experimental features | Patterns | Unit tests | Documentation
+
+📧 Contact me:
 - 📫 Email: shtankopro@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=ashtanko&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
