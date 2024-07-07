@@ -6,7 +6,8 @@ Projects I'm working on:
   - 🔗 [nullx](https://github.com/ashtanko/nullx) - Dart toolkit that enhances handling of nullable types
   - 💻 [the-algorithms](https://github.com/ashtanko/the-algorithms) - Algorithms in Kotlin with thorough unit testing and comprehensive documentation.
   - 🗿 [flutter_bloc_app_template](https://github.com/ashtanko/flutter_bloc_app_template) - Useful basic Flutter project template using Bloc pattern
-  - 🎆 [kotlab](https://github.com/ashtanko/kotlab) - Kotlin lab project includes: Algorithms | Data Structures | Experimental features | Patterns | Unit tests | Documentation
+  - 🎆 [kotlab](https://github.com/ashtanko/kotlab) - Kotlin lab project includes: Algorithms | Data Structures | Experimental features | Patterns | Unit tests
+  - 📄 [template](https://github.com/ashtanko/kotlin-app-template) - Kotlin template project with configured CI + test coveage + code official style
 
 📧 Contact me:
 - 📫 Email: shtankopro@gmail.com
